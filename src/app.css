@@ -143,6 +143,10 @@ body {
     font-size: 16px;
   }
 
+  .note.edit form {
+    height: 100%;
+  }
+
   .NoteList {
     grid-template-columns: 1fr;
   }
