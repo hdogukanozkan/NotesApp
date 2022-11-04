@@ -135,6 +135,9 @@ body {
 }
 
 @media only screen and (max-width: 400px) {
+  .note .text {
+    font-size: 14px;
+  }
   .moon {
     position: static;
     display: flex;
