@@ -1,6 +1,5 @@
 import Note from "./Note";
 import EditNote from "./EditNote";
-import { useRef } from "react";
 import { useAutoAnimate } from "@formkit/auto-animate/react";
 
 export default function NoteList({ notes, handleAddNote, deleteNote }) {
